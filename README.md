@@ -1,2 +1,2 @@
-# bank-ynab-go
+# csv-ynab-go
 Convert exported CSV to YNAB4 supported format
